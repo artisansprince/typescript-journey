@@ -1,6 +1,6 @@
 // 1. Data Types and Variables
 
-// Tipe data dasar
+// Basics Data Type
 let message: string = "Hello, TypeScript!";
 let age: number = 25;
 let isStudent: boolean = true;
